@@ -2,8 +2,6 @@
 
 Stay updated with real-time weather information right from your desktop. This simple and intuitive weather app allows you to check the current temperature of any city around the world.
 
-![App Screenshot](screenshots/app_screenshot.png)
-
 ## Installation
 
 1. Clone this repository to your local machine.
